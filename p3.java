@@ -8,7 +8,7 @@ public class p3
 		        if(i>=j){
 		             System.out.print(j);
 		        }else{
-		             System.out.print(" ");
+		             System.out.print(" s");
 		        }
 		        System.out.print("");
 		    }
